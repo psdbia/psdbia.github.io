@@ -1,3 +1,3 @@
 ## Y-data Repo
 
-[Penguins Profile]("penguins_profile.html")
+[Penguins Profile](https://psdbia.github.io/ydata/penguins_profile.html")
