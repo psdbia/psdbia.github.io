@@ -1,8 +1,4 @@
-## Y-data Repo
-
-
-
-
+Y-data Profiles
 
 [Penguins Profile](https://psdbia.github.io/ydata/penguins_profile.html)
  
